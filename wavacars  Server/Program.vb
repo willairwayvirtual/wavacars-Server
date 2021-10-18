@@ -103,7 +103,8 @@ Module Module1
 
                     broadcast(dataFromClient, clNo, True)
                 Catch ex As Exception
-                    MsgBox(ex.ToString)
+
+                    msg(ex.ToString)
                 End Try
             End While
         End Sub
