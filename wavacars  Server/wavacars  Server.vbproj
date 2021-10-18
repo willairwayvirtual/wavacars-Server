@@ -1,9 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <RootNamespace>wavacars__Server</RootNamespace>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>wavicon.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>
